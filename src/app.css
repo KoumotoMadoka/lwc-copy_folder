@@ -10,3 +10,9 @@ p {
     height: 100vh;
     overflow: scroll;
 }
+
+a{
+      font-weight: 500;
+      height: 100vh;
+      color: rgb(0, 0, 0);
+}
